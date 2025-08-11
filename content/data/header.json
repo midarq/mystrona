@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "Oprawa Muzyczna",
-            "altText": "",
+            "altText": "Oprawa Muzyczna",
             "url": "/oprawa-muzyczna",
             "showIcon": false,
             "icon": "arrowRight",
