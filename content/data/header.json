@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "O Nas",
             "altText": "O Nas",
             "url": "/blog",
             "icon": "arrowRight",
