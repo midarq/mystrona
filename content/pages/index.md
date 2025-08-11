@@ -527,7 +527,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: Twoja wiadomość
-          label: Message
+          label: Twoja wiadomość
           hideLabel: true
           placeholder: Your message
           width: full
