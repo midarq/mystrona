@@ -23,7 +23,7 @@
         {
             "label": "O Nas",
             "altText": "O Nas",
-            "url": "/blog",
+            "url": "/onas",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
