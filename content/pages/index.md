@@ -547,7 +547,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Wyślij
         showIcon: false
         icon: arrowRight
         iconPosition: right
