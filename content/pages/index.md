@@ -522,7 +522,7 @@ sections:
         - name: Twój Adres Email
           label: Twój Adres Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Twój Adres Email
           isRequired: true
           width: full
           type: EmailFormControl
