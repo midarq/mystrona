@@ -513,7 +513,7 @@ sections:
     media:
       fields:
         - name: Twoje imię i nazwisko
-          label: Name
+          label: Twoje imię i nazwisko
           hideLabel: true
           placeholder: Your name
           isRequired: true
