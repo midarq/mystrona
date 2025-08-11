@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - subtitle: This is a subtitle
+  - subtitle: ''
     text: ''
     media:
       title: Title of the video
