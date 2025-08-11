@@ -62,7 +62,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Aktualności",
             "altText": "",
             "url": "/aktualnosci",
             "showIcon": false,
