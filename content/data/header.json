@@ -63,7 +63,7 @@
         {
             "type": "Link",
             "label": "Aktualności",
-            "altText": "",
+            "altText": "Aktualności",
             "url": "/aktualnosci",
             "showIcon": false,
             "icon": "arrowRight",
