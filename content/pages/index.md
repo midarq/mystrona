@@ -512,7 +512,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       fields:
-        - name: name
+        - name: Twoje imię i nazwisko
           label: Name
           hideLabel: true
           placeholder: Your name
