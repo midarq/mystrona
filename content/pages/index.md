@@ -520,7 +520,7 @@ sections:
           width: full
           type: TextFormControl
         - name: Twój Adres Email
-          label: Email
+          label: Twój Adres Email
           hideLabel: true
           placeholder: Your email
           isRequired: true
