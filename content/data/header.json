@@ -22,7 +22,7 @@
         },
         {
             "label": "Blog",
-            "altText": "Blog",
+            "altText": "O Nas",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
