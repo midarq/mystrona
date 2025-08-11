@@ -515,7 +515,7 @@ sections:
         - name: Twoje imię i nazwisko
           label: Twoje imię i nazwisko
           hideLabel: true
-          placeholder: Your name
+          placeholder: Twoje imię i nazwisko
           isRequired: true
           width: full
           type: TextFormControl
