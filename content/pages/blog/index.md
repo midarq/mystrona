@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: O Nas
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
