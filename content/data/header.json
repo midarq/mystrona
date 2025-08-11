@@ -52,7 +52,7 @@
         {
             "type": "Link",
             "label": "See Tutorials",
-            "altText": "",
+            "altText": "Warsztaty",
             "url": "/warsztaty",
             "showIcon": false,
             "icon": "arrowRight",
