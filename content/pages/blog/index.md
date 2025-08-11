@@ -1,6 +1,6 @@
 ---
 title: O Nas
-slug: /blog
+slug: /onas
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
