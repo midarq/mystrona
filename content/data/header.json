@@ -51,7 +51,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Warsztaty",
             "altText": "Warsztaty",
             "url": "/warsztaty",
             "showIcon": false,
